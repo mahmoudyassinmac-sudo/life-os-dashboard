@@ -1,0 +1,472 @@
+{
+  "expenses": [
+    {
+      "title": "Home rent ",
+      "category": "Bills",
+      "amount": 11600,
+      "currency": "AED",
+      "dueDate": "2026-11-24",
+      "status": "Pending",
+      "recurring": "One-time",
+      "id": "exp-1793185894240",
+      "createdAt": "2026-10-28T11:11:34.240Z"
+    },
+    {
+      "id": "exp-1",
+      "title": "DEWA Electric & Water Bill",
+      "category": "Bills",
+      "amount": 540,
+      "currency": "AED",
+      "dueDate": "2026-10-30",
+      "status": "Pending",
+      "recurring": "Monthly",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "exp-2",
+      "title": "Du Home High-Speed Fiber Internet",
+      "category": "Bills",
+      "amount": 389,
+      "currency": "AED",
+      "dueDate": "2026-10-29",
+      "status": "Pending",
+      "recurring": "Monthly",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "exp-3",
+      "title": "AC Comprehensive Duct Cleaning",
+      "category": "Maintenance",
+      "amount": 450,
+      "currency": "AED",
+      "dueDate": "2026-10-27",
+      "status": "Overdue",
+      "recurring": "One-time",
+      "createdAt": "2026-10-15"
+    },
+    {
+      "id": "exp-4",
+      "title": "Family Weekly Organic Groceries",
+      "category": "Family",
+      "amount": 720,
+      "currency": "AED",
+      "dueDate": "2026-10-31",
+      "status": "Pending",
+      "recurring": "Monthly",
+      "createdAt": "2026-10-25"
+    },
+    {
+      "id": "exp-5",
+      "title": "Dental Checkup & Cleaning",
+      "category": "Health",
+      "amount": 350,
+      "currency": "AED",
+      "dueDate": "2026-11-04",
+      "status": "Pending",
+      "recurring": "One-time",
+      "createdAt": "2026-10-20"
+    },
+    {
+      "id": "exp-6",
+      "title": "Emaar Community Service Fee Q4",
+      "category": "Maintenance",
+      "amount": 2850,
+      "currency": "AED",
+      "dueDate": "2026-11-15",
+      "status": "Pending",
+      "recurring": "Yearly",
+      "createdAt": "2026-10-10"
+    },
+    {
+      "id": "exp-7",
+      "title": "Salik Toll Auto-Recharge",
+      "category": "Personal",
+      "amount": 200,
+      "currency": "AED",
+      "dueDate": "2026-10-25",
+      "status": "Paid",
+      "recurring": "Monthly",
+      "createdAt": "2026-10-25"
+    },
+    {
+      "id": "exp-8",
+      "title": "Car Annual Comprehensive Insurance",
+      "category": "Bills",
+      "amount": 1950,
+      "currency": "AED",
+      "dueDate": "2026-10-20",
+      "status": "Paid",
+      "recurring": "Yearly",
+      "createdAt": "2026-10-18"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "sub-1",
+      "serviceName": "ChatGPT Plus & Codex",
+      "cost": 75,
+      "currency": "AED",
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-10-29",
+      "paymentMethod": "Apple Pay (ADCB Debit)",
+      "status": "Active",
+      "createdAt": "2026-01-29"
+    },
+    {
+      "id": "sub-2",
+      "serviceName": "Vercel Pro Team",
+      "cost": 74,
+      "currency": "AED",
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-10-31",
+      "paymentMethod": "Emirates NBD Credit ****4112",
+      "status": "Active",
+      "createdAt": "2026-03-31"
+    },
+    {
+      "id": "sub-3",
+      "serviceName": "Apple One Premier (iCloud 2TB)",
+      "cost": 85,
+      "currency": "AED",
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-11-02",
+      "paymentMethod": "Apple Pay",
+      "status": "Active",
+      "createdAt": "2025-11-02"
+    },
+    {
+      "id": "sub-4",
+      "serviceName": "Fitness First Platinum Gym",
+      "cost": 420,
+      "currency": "AED",
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-11-08",
+      "paymentMethod": "Direct Debit",
+      "status": "Active",
+      "createdAt": "2026-02-08"
+    },
+    {
+      "id": "sub-5",
+      "serviceName": "Netflix Premium 4K",
+      "cost": 65,
+      "currency": "AED",
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-11-12",
+      "paymentMethod": "Emirates NBD Credit ****4112",
+      "status": "Active",
+      "createdAt": "2025-06-12"
+    },
+    {
+      "id": "sub-6",
+      "serviceName": "GitHub Enterprise Copilot",
+      "cost": 140,
+      "currency": "AED",
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-11-19",
+      "paymentMethod": "Company Card",
+      "status": "Active",
+      "createdAt": "2026-04-19"
+    },
+    {
+      "id": "sub-7",
+      "serviceName": "Audible Membership",
+      "cost": 55,
+      "currency": "AED",
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-11-24",
+      "paymentMethod": "ADCB Debit ****9820",
+      "status": "Paused",
+      "createdAt": "2026-05-24"
+    }
+  ],
+  "homeTasks": [
+    {
+      "id": "ht-1",
+      "title": "Replace Master Bedroom Water Filter Cartridge",
+      "category": "Maintenance",
+      "priority": "High",
+      "dueDate": "2026-10-28",
+      "status": "To Do",
+      "createdAt": "2026-10-25"
+    },
+    {
+      "id": "ht-2",
+      "title": "Order weekly fresh produce & water bottles",
+      "category": "Groceries",
+      "priority": "High",
+      "dueDate": "2026-10-28",
+      "status": "To Do",
+      "createdAt": "2026-10-27"
+    },
+    {
+      "id": "ht-3",
+      "title": "Schedule quarterly HVAC technician visit",
+      "category": "Utility",
+      "priority": "Medium",
+      "dueDate": "2026-10-30",
+      "status": "To Do",
+      "createdAt": "2026-10-26"
+    },
+    {
+      "id": "ht-4",
+      "title": "Pick up dry cleaning & winter suits",
+      "category": "Family",
+      "priority": "Low",
+      "dueDate": "2026-10-31",
+      "status": "To Do",
+      "createdAt": "2026-10-26"
+    },
+    {
+      "id": "ht-5",
+      "title": "Renew building resident parking barcode tag",
+      "category": "Utility",
+      "priority": "High",
+      "dueDate": "2026-11-02",
+      "status": "To Do",
+      "createdAt": "2026-10-20"
+    },
+    {
+      "id": "ht-6",
+      "title": "Deep clean patio & outdoor furniture",
+      "category": "Maintenance",
+      "priority": "Low",
+      "dueDate": "2026-10-26",
+      "status": "Completed",
+      "createdAt": "2026-10-22"
+    }
+  ],
+  "workTasks": [
+    {
+      "id": "wt-1",
+      "title": "Finish WhatsApp Webhook Node in n8n pipeline",
+      "priority": "High",
+      "estimatedHours": 3.5,
+      "dueDate": "2026-10-28",
+      "status": "In Progress",
+      "projectId": "proj-1",
+      "createdAt": "2026-10-27"
+    },
+    {
+      "id": "wt-2",
+      "title": "Review Q4 CRM Architecture proposal with CTO",
+      "priority": "High",
+      "estimatedHours": 2,
+      "dueDate": "2026-10-28",
+      "status": "To Do",
+      "projectId": "proj-2",
+      "createdAt": "2026-10-26"
+    },
+    {
+      "id": "wt-3",
+      "title": "Configure Meta Cloud API production templates",
+      "priority": "Medium",
+      "estimatedHours": 4,
+      "dueDate": "2026-10-29",
+      "status": "To Do",
+      "projectId": "proj-1",
+      "createdAt": "2026-10-25"
+    },
+    {
+      "id": "wt-4",
+      "title": "Implement database encryption for customer tokens",
+      "priority": "High",
+      "estimatedHours": 5,
+      "dueDate": "2026-11-01",
+      "status": "To Do",
+      "projectId": "proj-2",
+      "createdAt": "2026-10-26"
+    },
+    {
+      "id": "wt-5",
+      "title": "Draft weekly engineering sprint retrospective",
+      "priority": "Low",
+      "estimatedHours": 1.5,
+      "dueDate": "2026-10-31",
+      "status": "To Do",
+      "createdAt": "2026-10-27"
+    },
+    {
+      "id": "wt-6",
+      "title": "Deploy Next.js staging build to Vercel preview",
+      "priority": "Medium",
+      "estimatedHours": 1,
+      "dueDate": "2026-10-27",
+      "status": "Completed",
+      "projectId": "proj-1",
+      "createdAt": "2026-10-26"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "WhatsApp Dashboard Automation",
+      "description": "Enterprise WhatsApp Business API integration linked directly to automated n8n workflows for instantaneous client lead alerts, invoice updates, and proactive reminders.",
+      "status": "In Progress",
+      "targetDeadline": "2026-11-10",
+      "progress": 68,
+      "notes": "Meta Cloud API verified. Production webhook requires verification token handshake before SSL termination.",
+      "links": [
+        "https://developers.facebook.com/apps/whatsapp",
+        "https://n8n.cloud/workflow/whatsapp-router"
+      ],
+      "milestones": [
+        {
+          "id": "m-1",
+          "title": "API Authentication & Webhook Infrastructure",
+          "completed": true,
+          "subtasks": [
+            {
+              "id": "st-1",
+              "title": "Register Meta Business account and verify WABA",
+              "completed": true
+            },
+            {
+              "id": "st-2",
+              "title": "Setup HTTPS callback URL with challenge verification",
+              "completed": true
+            },
+            {
+              "id": "st-3",
+              "title": "Create secure token storage in key vault",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "m-2",
+          "title": "n8n Workflow Nodes & Payload Routing",
+          "completed": false,
+          "subtasks": [
+            {
+              "id": "st-4",
+              "title": "Build inbound webhook receiver trigger",
+              "completed": true
+            },
+            {
+              "id": "st-5",
+              "title": "Create template dispatch node for urgent alerts",
+              "completed": false
+            },
+            {
+              "id": "st-6",
+              "title": "Configure auto-retry with exponential backoff",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": "m-3",
+          "title": "End-to-End Testing & Production Deploy",
+          "completed": false,
+          "subtasks": [
+            {
+              "id": "st-7",
+              "title": "Simulate high concurrency delivery test",
+              "completed": false
+            },
+            {
+              "id": "st-8",
+              "title": "Deploy on production node cluster",
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-10-10"
+    },
+    {
+      "id": "proj-2",
+      "title": "Executive Client CRM Portal 2.0",
+      "description": "Next-generation executive dashboard for real-time portfolio management, meeting notes transcription, and relationship velocity metrics.",
+      "status": "Planning",
+      "targetDeadline": "2026-12-01",
+      "progress": 30,
+      "notes": "Focus on warm dark glassy aesthetic, high responsiveness, and instantaneous client contact search.",
+      "links": [
+        "https://github.com/company/crm-next",
+        "https://figma.com/design/crm-system"
+      ],
+      "milestones": [
+        {
+          "id": "m-201",
+          "title": "Architecture & Schema Definition",
+          "completed": true,
+          "subtasks": [
+            {
+              "id": "st-201",
+              "title": "PostgreSQL schema with Prisma ORM",
+              "completed": true
+            },
+            {
+              "id": "st-202",
+              "title": "RBAC authorization rules",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "m-202",
+          "title": "UI Component Library",
+          "completed": false,
+          "subtasks": [
+            {
+              "id": "st-203",
+              "title": "Glassy cards and layout shell",
+              "completed": false
+            },
+            {
+              "id": "st-204",
+              "title": "Interactive data visualization charts",
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-10-15"
+    },
+    {
+      "id": "proj-3",
+      "title": "Personal Health & Bio-Analytics Sync",
+      "description": "Automated integration linking Oura Ring, Apple HealthKit, and training logs into a unified personal performance dashboard.",
+      "status": "Review",
+      "targetDeadline": "2026-11-05",
+      "progress": 85,
+      "notes": "Webhook sync runs every 6 hours via Apple Shortcuts to Cloudflare Worker.",
+      "links": [
+        "https://cloud.ouraring.com/docs"
+      ],
+      "milestones": [
+        {
+          "id": "m-301",
+          "title": "HealthKit Exporter Pipeline",
+          "completed": true,
+          "subtasks": [
+            {
+              "id": "st-301",
+              "title": "Configure JSON background exporter",
+              "completed": true
+            },
+            {
+              "id": "st-302",
+              "title": "Sleep score & HRV aggregation algorithm",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "m-302",
+          "title": "Visual Dashboard Charts",
+          "completed": true,
+          "subtasks": [
+            {
+              "id": "st-303",
+              "title": "Render daily energy baseline",
+              "completed": true
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-10-01"
+    }
+  ]
+}
